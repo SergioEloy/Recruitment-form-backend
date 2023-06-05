@@ -1,0 +1,23 @@
+{
+  "development": {
+    "username": "postgres",
+    "password": "totito12",
+    "database": "RecruitmentForm",
+    "host": "localhost",
+    "dialect": "postgres"
+  },
+  "test": {
+    "username": "postgres",
+    "password": "totito12",
+    "database": "RecruitmentForm",
+    "host": "localhost",
+    "dialect": "postgres"
+  },
+  "production": {
+    "username": "postgres",
+    "password": "totito12",
+    "database": "RecruitmentForm",
+    "host": "localhost",
+    "dialect": "postgres"
+  }
+}
